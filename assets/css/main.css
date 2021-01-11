@@ -10,35 +10,35 @@ h2, h4{
 
 /* HERO SECTION CSS */
 .hero-section{
-  background-image:url(../../assets/images/main-hero-img.png);
+  background-image:url(../../assets/images/main-hero-img.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   height: 100vh;
 }
 .hero-o-nas-section{
-  background-image:url(../../assets/images/o-nas-hero1.png);
+  background-image:url(../../assets/images/o-nas-hero1.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   height: 100vh;
 }
 .hero-section-gallery{
-  background-image:url(../../assets/images/Gallery.png);
+  background-image:url(../../assets/images/gallery.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   height: 100vh;
 }
 .hero-section-kontakt{
-  background-image:url(../../assets/images/kontakt.png);
+  background-image:url(../../assets/images/kontakt.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
   height: 100vh;
 }
 .hero-section-obrusy{
-  background-image:url(../../assets/images/obrusy-hero.png);
+  background-image:url(../../assets/images/obrusy-hero.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -157,7 +157,7 @@ h3{
 
 /* NUMBERS CSS */
 .in-numbers-section{
-  background-image:url(../../assets/images/call-to-action-black.png);
+  background-image:url(../../assets/images/call-to-action-black.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
@@ -346,7 +346,7 @@ footer{
   background-size: cover;
 }
 .kariera{
-  background-image:url(../../assets/images/kariera.png);
+  background-image:url(../../assets/images/kariera.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
