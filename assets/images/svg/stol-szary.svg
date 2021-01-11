@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="242.282" height="242.282" viewBox="0 0 242.282 242.282">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_23" data-name="Rectangle 23" width="122.756" height="122.756" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_127" data-name="Group 127" transform="translate(1598.949 -4993.03)">
+    <g id="Component_5_7" data-name="Component 5 – 7" transform="translate(-1598.949 4993.03)">
+      <circle id="Ellipse_2" data-name="Ellipse 2" cx="121.141" cy="121.141" r="121.141" transform="translate(0 0)" fill="#ececec"/>
+    </g>
+    <g id="Group_89" data-name="Group 89" transform="translate(-1539.725 5053.253)">
+      <g id="Mask_Group_1" data-name="Mask Group 1" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="Obszar_roboczy_1" data-name="Obszar roboczy 1" d="M120.115,70.947H5.329V56.873H120.115ZM1.371,75.014h122.7V21.25H1.371Zm118.744-22.1H5.329V25.208H120.115Zm-13.854,22.1V96.455H98.345V75.014H94.387v1.65H31.057v-1.65H27.1V96.455H19.183V75.014H15.224v25.4H31.057V92.5h63.33v7.916H110.22v-25.4ZM94.387,88.538H31.057V80.622h63.33Z" transform="translate(-1.331 1.041)"/>
+      </g>
+    </g>
+  </g>
+</svg>
